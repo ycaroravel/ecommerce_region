@@ -5,3 +5,5 @@ Este repositório é dedicado à análise de dados [Brazilian E-Commerce Public 
 Aqui, buscaremos analisar informações gerais a respeito de valores, tempo e taxa de entrega e índice de satisfação em compras realizadas nas diferentes regiões do Brasil. A intenção é posicionar os dados de clientes da região norte do país em relação às demais regiões e avaliar a qualidade de serviço que eles tem recebido nas alternativas de e-commerce já existentes.
 
 [Análise Exploratória dos Dados](http://nbviewer.jupyter.org/github/ycaroravel/ecommerce_region/blob/master/eda.ipynb) 
+
+[Same Project on Google Colab](https://colab.research.google.com/drive/1cizFxm4xK1W91HNauXSAkpLyPNt4yhaZ#scrollTo=8EZLKJwYA4JV)
